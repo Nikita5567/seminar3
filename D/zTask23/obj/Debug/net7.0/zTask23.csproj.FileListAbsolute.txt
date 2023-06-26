@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\С# семинар\Seminar3\D\zTask23\bin\Debug\net7.0\zTask23.exe
+C:\Users\Ирина\Desktop\С# семинар\Seminar3\D\zTask23\bin\Debug\net7.0\zTask23.deps.json
+C:\Users\Ирина\Desktop\С# семинар\Seminar3\D\zTask23\bin\Debug\net7.0\zTask23.runtimeconfig.json
+C:\Users\Ирина\Desktop\С# семинар\Seminar3\D\zTask23\bin\Debug\net7.0\zTask23.dll
+C:\Users\Ирина\Desktop\С# семинар\Seminar3\D\zTask23\bin\Debug\net7.0\zTask23.pdb
+C:\Users\Ирина\Desktop\С# семинар\Seminar3\D\zTask23\obj\Debug\net7.0\zTask23.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\С# семинар\Seminar3\D\zTask23\obj\Debug\net7.0\zTask23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\С# семинар\Seminar3\D\zTask23\obj\Debug\net7.0\zTask23.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\С# семинар\Seminar3\D\zTask23\obj\Debug\net7.0\zTask23.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\С# семинар\Seminar3\D\zTask23\obj\Debug\net7.0\zTask23.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\С# семинар\Seminar3\D\zTask23\obj\Debug\net7.0\zTask23.dll
+C:\Users\Ирина\Desktop\С# семинар\Seminar3\D\zTask23\obj\Debug\net7.0\refint\zTask23.dll
+C:\Users\Ирина\Desktop\С# семинар\Seminar3\D\zTask23\obj\Debug\net7.0\zTask23.pdb
+C:\Users\Ирина\Desktop\С# семинар\Seminar3\D\zTask23\obj\Debug\net7.0\zTask23.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\С# семинар\Seminar3\D\zTask23\obj\Debug\net7.0\ref\zTask23.dll
